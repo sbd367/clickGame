@@ -2,7 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://sbd367.github.io/clickGame/",
+  "homepage" : ".",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
