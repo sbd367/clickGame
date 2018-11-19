@@ -1,0 +1,9 @@
+#lePoints{
+    text-align: center;
+    position: relative;
+    left: 50vw;
+    bottom: 8vw;
+    width: 15vw;
+    background: grey;
+    border-radius: 5px;
+}

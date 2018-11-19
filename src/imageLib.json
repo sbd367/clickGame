@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Trans Am",
+        "image": "https://cdn.motor1.com/images/mgl/BPj1j/s3/great-muscle-cars-of-the-1970s.jpg",
+        "clicked": false,
+        "position": 1
+    },
+    {
+        "id": 2,
+        "name": "Charger Daytona",
+        "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/768x516/54cae422a6fc6_-_american-muscle-facts-03-0312-xln.jpg?resize=980:*",
+        "clicked": false,
+        "position": 2
+    },
+    {
+        "id": 3,
+        "name": "Chevy Chevelle",
+        "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/768x516/54cae42460b4e_-_american-muscle-facts-07-0312-de.jpg?resize=980:*",
+        "clicked": false,
+        "position": 3
+    },
+    {
+        "id": 4,
+        "name": "Mustang Boss 429",
+        "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/768x516/54cae423e713b_-_american-muscle-facts-06-0312-xln.jpg?resize=980:*",
+        "clicked": false,
+        "position": 4
+    },
+    {
+        "id": 5,
+        "name": "Pontiac GTO",
+        "image": "https://icdn2.digitaltrends.com/image/unnamed3-720x720.jpg",
+        "clicked": false,
+        "position": 5
+    },
+    {
+        "id": 6,
+        "name": "Road Runner",
+        "image": "https://icdn4.digitaltrends.com/image/the-winner-of-the-second-top-eliminator-hemi-heritage-trophy-chosen-at-the-annual-carlisle-chrysler-nationals-in-carlisle-pennsylvania-is-a-1969-dodge-super-bee-with-a-426-hemi-v-720x720.jpg",
+        "clicked": false,
+        "position": 6
+    },
+    {
+        "id": 7,
+        "name": "Barracuda",
+        "image": "https://drivezing.com/wp-content/uploads/2018/03/rsz_1970_plymouth_barracuda_-_2.jpg",
+        "clicked": false,
+        "position": 7
+    },
+    {
+        "id": 8,
+        "name": "Mustang GT500",
+        "image": "https://www.zeroto60times.com/2013/01/black-1968-shelby-gt500-kr-pictures.jpg",
+        "clicked": false,
+        "position": 8
+    },
+    {
+        "id": 9,
+        "name": "El Camino",
+        "image": "https://www.classicmuscle.com/media/wysiwyg/static-pages/el-camino-1968.jpg",
+        "clicked": false,
+        "position": 9
+    },
+    {
+        "id": 10,
+        "name": "Dr. greenThumb impala",
+        "image": "https://i.pinimg.com/originals/00/ac/08/00ac0859fa5deb4bf009519fa8c2d275.jpg",
+        "clicked": false,
+        "position": 10
+    }
+]
