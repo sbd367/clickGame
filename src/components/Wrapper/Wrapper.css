@@ -1,9 +1,12 @@
 #lePoints{
     text-align: center;
     position: relative;
-    left: 50vw;
+    left: 40vw;
     bottom: 8vw;
     width: 15vw;
     background: grey;
     border-radius: 5px;
+}
+img{
+    height: 17vh;
 }
